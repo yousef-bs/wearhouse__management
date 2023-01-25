@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1674670871 source:e:\c-programs\project2023\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1674226351 source:e:\c-programs\project2023\test.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1674226430 source:e:\c-programs\project2023\sign up.c
+	<stdio.h>
+	<string.h>
+
+1674669426 source:e:\c-programs\project2023\login.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1674667241 source:e:\c-programs\project2023\sign_up.c
+	<stdio.h>
+	<string.h>
+
+1674666673 source:e:\c-programs\project2023\new_products.c
+	<stdio.h>
+	<string.h>
+
+1674670378 source:e:\c-programs\project2023\main_menu.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1674670347 source:e:\c-programs\project2023\linked list.c
+
