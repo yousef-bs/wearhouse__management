@@ -19,7 +19,7 @@ void log_in()
     char username[20];
     char password[20];
 
-    printf("Enter your username:\n");
+    printf("Enter your username?:\n");
     scanf("%s",&username);
 
     printf("Enter your password:\n");
